@@ -1,6 +1,6 @@
 {
-  "name": "Binary Laboratory",
-  "short_name": "Bynalab",
+  "name": "Hexpee",
+  "short_name": "Hexpee",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#2A3443",
@@ -8,7 +8,7 @@
   "theme_color": "#2A3443",
   "icons": [
     {
-      "src": "bynalab_dp.jpg",
+      "src": "hexpee.jpg",
       "sizes": "512x512",
       "type": "image/jpg"
     }
